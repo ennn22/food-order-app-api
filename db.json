@@ -1,0 +1,67 @@
+{
+  "meals": [
+    {
+      "id": 1698987001442,
+      "name": "Char Koay Teow",
+      "desc": "Charcoal-flamed, with prawn, with wok hei",
+      "price": "10.90",
+      "img": "https://i.ibb.co/k2VjRpZ/Whats-App-Image-2023-11-03-at-12-33-58-PM.jpg"
+    },
+    {
+      "id": 1698987292447,
+      "name": "Koay Teow Th'ng",
+      "desc": "Flat rice noodles served with a clear savoury broth and a host of chicken or duck meat, fishballs and vegetables.",
+      "price": "8",
+      "img": "https://i.ibb.co/yPgy63j/Whats-App-Image-2023-11-03-at-12-33-58-PM-2.jpg"
+    },
+    {
+      "id": 1698988691976,
+      "name": "Hokkien Mee",
+      "desc": "With egg, kangkung (water spinach), bean spouts, fried shallots and the special sambal",
+      "price": "10.90",
+      "img": "https://i.ibb.co/n7qwrVq/Whats-App-Image-2023-11-03-at-12-33-57-PM.jpg"
+    },
+    {
+      "id": 1699004662908,
+      "name": "Kway Chap",
+      "desc": "With dark soy sauce, served with an assortment of pork cuts including offal, pork belly, intestines, pig's ears, braised duck.",
+      "price": "11.90",
+      "img": "https://i.ibb.co/d4x583Y/Whats-App-Image-2023-11-03-at-12-33-57-PM-2.jpg"
+    },
+    {
+      "id": 1699005036319,
+      "name": "Assam Laksa",
+      "desc": "Well-balanced flavours of sweet, spicy, and sour",
+      "price": "8.90",
+      "img": "https://i.ibb.co/THLm7GT/d9f2a8b6f47c46cbb3f0c8bb35e2cacc.webp"
+    },
+    {
+      "id": 1699087951970,
+      "name": "Ais Kacang",
+      "desc": "With sweet corn, red beans, palm sugar syrup and a scoop of ice cream.",
+      "price": "9.90",
+      "img": "https://i.ibb.co/tXtLfPg/aiskacang.jpg"
+    },
+    {
+      "id": 1699116347401,
+      "name": "Char Koay Kak",
+      "desc": "With dark soy sauce, chopped chai poh, and bean sprouts. ",
+      "price": "8.90",
+      "img": "https://i.ibb.co/JKYsR96/char-koay-kak.jpg"
+    },
+    {
+      "id": 1699261457830,
+      "name": "Toy",
+      "desc": "Gundam Toy",
+      "price": "100",
+      "img": "https://i.ibb.co/N7bpmV3/387120913-10223152425853993-888320043700799255-n.jpg"
+    },
+    {
+      "id": 1699261576919,
+      "name": "Holiday Deals",
+      "desc": "Mix of various Penang cuisines (5 yum dishes).",
+      "price": "50",
+      "img": "https://i.ibb.co/XVQRMwQ/Hot-Deals.png"
+    }
+  ]
+}
